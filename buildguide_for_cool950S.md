@@ -59,7 +59,7 @@ https://twitter.com/0002ozlet/status/1418881247648964608
 左右それぞれのPCBにタクトスイッチをハンダ付けします。<br>
 PCBに「reset」の文字が印刷されています。
 文字が隠れるようにタクトスイッチを置いて、その裏側からハンダ付けをします。<br>
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">次はリセットスイッチです。<a href="https://twitter.com/hashtag/cool950S?src=hash&amp;ref_src=twsrc%5Etfw">#cool950S</a> <a href="https://twitter.com/hashtag/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89?src=hash&amp;ref_src=twsrc%5Etfw">#自作キーボード</a> <a href="https://twitter.com/hashtag/%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91?src=hash&amp;ref_src=twsrc%5Etfw">#はんだ付け</a> <a href="https://t.co/tLd7I7WGja">pic.twitter.com/tLd7I7WGja</a></p>&mdash; m.ki（エム キ） (@0002ozlet) <a href="https://twitter.com/0002ozlet/status/1418884394085879808?ref_src=twsrc%5Etfw">July 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://twitter.com/0002ozlet/status/1418884394085879808
 <br>
 ※ツイートで言うリセットスイッチとは、このタクトスイッチのことです。
 
