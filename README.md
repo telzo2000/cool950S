@@ -1,4 +1,6 @@
 # cool950S
+# ビルドガイド<br>
+https://github.com/telzo2000/cool950S/blob/main/buildguide_for_cool950S.md
 
 # 開発の経緯(Development history)<br>
 cool943Sの製作した後，それに合うようなキーキャップを探したが，中々合致するものがなかった。
