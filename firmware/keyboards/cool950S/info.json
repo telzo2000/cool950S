@@ -1,0 +1,21 @@
+{
+    "keyboard_name": "cool950S",
+    "url": "http://github.com/telzo2000/",
+    "maintainer": "m.ki",
+    "width": 14,
+    "height": 4,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+             [{c:"#cf6767"},"F1",{x:0.5,c:"#777777"},
+"Esc",{c:"#cccccc"},
+"Q","W","E","R","T",
+{x:1},"Y","U","I","O","P","[","Del"],
+[{c:"#cf6767"},"F2",{x:0.25,c:"#cccccc",w:1.5},"Tab","A","S","D","F","G",{x:1},"H","J","K","L","-",{c:"#777777",w:2.25},"Enter"],
+[{c:"#cf6767"},"F3",{x:0.25,c:"#cccccc",w:2},"Shift","Z","X","C","V","B",{x:1},"N","M",",",".","Up",{w:1.25},"Shift"],
+[{c:"#cf6767"},"F4",{x:0.5,c:"#777777",w:1.25},"Ctrl",{c:"#cccccc",w:1.25},"Win",{w:1.25},"Alt",{c:"#777777",w:2.75},"Sapce",{x:1,w:2.25},"Space",{c:"#cccccc"},"L1","Left","Under","Right"]
+
+            ]
+        }
+    }
+}
