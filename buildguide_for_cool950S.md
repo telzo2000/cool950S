@@ -41,6 +41,9 @@ cool950Sはyouichiro氏の開発したREMAPにて、キーレイアウトの編�
 次の[Hexファイル](https://github.com/telzo2000/cool950S/blob/main/cool950S_via.hex)をダウンロードしてください。そして、QMK TOOLBOXにてPro microへの書き込みをしてください。<br>
 REMAPで作業するための[Jsonファイル](https://github.com/telzo2000/cool950S/blob/main/cool950S_remap.json)はこちらにあります。<br>
 chromeを起動して、「REMAP」と検索し、REMAPのサイトへアクセスしてください。<br>
+cool950Sとパソコンをケーブルでつなぎ、REMAPのサイトへアクセスすると、
+cool950Sのキーレイアウトが変更できます。<br>
+![](img/img0045.png)
 ## ３　色塗り
 PCBの側面を黒色マジックで塗ってください。
 cool950Sはトッププレートが黒色アクリルプレートを使用していますので、
