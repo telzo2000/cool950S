@@ -36,7 +36,7 @@ cool950Sは、m.kiが設計した40％分割キーボードです。<br>
 
 ## ２　ファームウェアについて
 cool950Sはyouichiro氏の開発したREMAPにて、キーレイアウトの編集ができます。<br>
-次の[Hexファイル]()をダウンロードしてください。そして、QMK TOOLBOXにてPro microへの書き込みをしてください。<br>
+次の[Hexファイル](https://github.com/telzo2000/cool950S/blob/main/cool950S_via.hex)をダウンロードしてください。そして、QMK TOOLBOXにてPro microへの書き込みをしてください。<br>
 REMAPで作業するための[Jsonファイル](https://github.com/telzo2000/cool950S/blob/main/cool950S_remap.json)はこちらにあります。<br>
 chromeを起動して、「REMAP」と検索し、REMAPのサイトへアクセスしてください。<br>
 ## ３　色塗り
