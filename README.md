@@ -2,6 +2,15 @@
 # ビルドガイド<br>
 https://github.com/telzo2000/cool950S/blob/main/buildguide_for_cool950S.md
 
+# What is cool950S?
+
+cool950S is desined by m.ki.
+<br>
+cool950S is a split keyboard.
+<br>
+I didn't have a cool 40% keyboard, so I made one.
+<br>
+
 # 開発の経緯(Development history)<br>
 cool943Sの製作した後，それに合うようなキーキャップを探したが，中々合致するものがなかった。
 特にエンターキーは40%キーボードで構成されている1.75Uにしたため，ベースキット以外に，40%キットを追加購入するなど，お金がかかる事となった。
